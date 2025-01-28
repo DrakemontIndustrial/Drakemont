@@ -41,16 +41,6 @@ Our story began with a passion for helping businesses succeed. We saw a need for
 
 We service the industrial heartland of the nation, with a strong focus in Ontario. From automotive to mining, and tech to manufacturing, our commitment spans across the country, fueling innovation and growth. We are where industry thrives, embodying the spirit of Canadian resilience and ingenuity.
 
-## Projects
-
-### [Project 1: Industrial Automation System](https://github.com/DrakemontIndustrial/industrial-automation-system)
-A comprehensive system designed to automate and monitor industrial processes using PLCs and SCADA. Features include real-time data logging, remote monitoring, and automated reporting.
-
-### [Project 2: Data Analysis and Visualization](https://github.com/DrakemontIndustrial/data-analysis-visualization)
-A Python-based project that utilizes Pandas and Matplotlib to analyze and visualize large datasets. Includes various data cleaning and transformation techniques.
-
-### [Project 3: Web Application for Inventory Management](https://github.com/DrakemontIndustrial/inventory-management-webapp)
-A web application built with Flask and React to manage and track inventory in a warehouse. Features include barcode scanning, real-time updates, and detailed reporting.
 
 ## Contact Us
 
