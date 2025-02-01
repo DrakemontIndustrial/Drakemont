@@ -1,10 +1,10 @@
-[Drakemont System Upgrade Checklist]
+**Drakemont System Upgrade Checklist**
 
-Client Name: _______________________
-Upgrade Date: ______________________
-System Being Upgraded: ______________
+**Client Name: _______________________**
+**Upgrade Date: ______________________**
+**System Being Upgraded: ______________**
 
-Step 1: Pre-Upgrade Assessment
+**Step 1: Pre-Upgrade Assessment**
 
 [ ] Assess the current system configuration and performance
 
@@ -15,7 +15,7 @@ Step 1: Pre-Upgrade Assessment
 [ ] Determine the upgrade scope and components that need replacement or improvement
 
 
-Step 2: Backup and Preparation
+**Step 2: Backup and Preparation**
 
 [ ] Backup all system data and settings to prevent data loss
 
@@ -24,7 +24,7 @@ Step 2: Backup and Preparation
 [ ] Verify that the system is powered down and isolated for the upgrade
 
 
-Step 3: System Upgrade
+**Step 3: System Upgrade**
 
 [ ] Replace or update hardware components as required
 
@@ -34,8 +34,7 @@ Step 3: System Upgrade
 
 [ ] Test the upgraded system for functionality and performance
 
-
-Step 4: Post-Upgrade Testing
+**Step 4: Post-Upgrade Testing**
 
 [ ] Perform functional testing to ensure the upgraded system operates as expected
 
@@ -44,7 +43,7 @@ Step 4: Post-Upgrade Testing
 [ ] Run the system under load conditions to verify stability
 
 
-Step 5: Client Training and Handover
+**Step 5: Client Training and Handover**
 
 [ ] Provide training on new system features and any operational changes
 
